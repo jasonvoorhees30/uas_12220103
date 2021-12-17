@@ -20,11 +20,6 @@ streamlit run
 ## Required packages
 - Streamlit
 - Pandas
-- Numpy
 - Matplotlib
-- Os
-- Re
-- Typing
-- Json
-- PIL
+
 
